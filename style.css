@@ -1,7 +1,7 @@
 body {
-  font-family: sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif
   color: #172b4d;
-  background-color: #0279bf;
+  background-color: #b3d3e6;
   display: flex;
   align-items: start;
 }
@@ -49,7 +49,7 @@ div {
   min-width: 280px;
   margin: 10px 5px;
   position: relative;
-  background: #dfe1e6;
+  background: #a4aab9;
 }
 
 
